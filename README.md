@@ -4,7 +4,7 @@
 
 ## Aufgabenstellung
 
-Das folgende Beispiel zeigt, wie eine Keyframe-Animation aufgebaut sein kann. Wir bewegen 4 '<div>' zwischen vier Koordinaten und wechseln zusätzlich die Farbe.
+Das folgende Beispiel zeigt, wie eine Keyframe-Animation aufgebaut sein kann. Wir bewegen 4 'div' zwischen vier Koordinaten und wechseln zusätzlich die Farbe.
 
 Bitte schaue dir die Animation in der Ergebnisvorschau an.
 
