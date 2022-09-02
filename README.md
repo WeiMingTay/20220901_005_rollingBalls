@@ -13,4 +13,4 @@ Bitte schaue dir die Animation in der Ergebnisvorschau an.
 Mit den animation-delay und animation-fill-mode Eigenschaften kann der Effekt noch ansprechender gestaltet werden.
 
 ## Ergebnisvorschau
-![ergebnisvorschau](../../../../../../../../../Dropbox/Mac/Documents/Bildschirmaufnahmen/Bildschirmfoto%202022-09-01%20um%2022.51.08.png)
+![ergebnisvorschau](assets/readme/Bildschirmfoto%202022-09-01%20um%2022.51.08.png)
